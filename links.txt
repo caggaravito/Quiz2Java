@@ -1,0 +1,3 @@
+Here are the links used to complete this assigments: https://www.javatpoint.com/how-to-sort-a-list-in-java
+https://www.javatpoint.com/java-list
+https://stackoverflow.com/questions/687833/how-to-get-the-last-value-of-an-arraylist#:~:text=The%20index%20values%20of%20the,to%20retrieve%20the%20last%20element.&text=There%20is%20no%20elegant%20way,%5B%2D1%5D%20in%20Python).
